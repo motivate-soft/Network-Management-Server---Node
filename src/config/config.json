@@ -1,0 +1,12 @@
+{
+  "mongoUrl": "mongodb://root:$ecret@localhost:27017",
+  "mongoReconnectDelay": 5000,
+  "dbName": "wanoscm",
+  "rpcIp": "0.0.0.0",
+  "rpcPort": 50051,
+  "agentPackagePath": "/wanos/wcm-agent-packages",
+  "tmpPath": "/tmp",
+  "agentVersion": "1.0.4",
+  "hashAlgo": "sha256",
+  "backupRetension": 5
+}

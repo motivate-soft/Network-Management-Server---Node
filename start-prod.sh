@@ -1,0 +1,2 @@
+NODE_ENV=production PORT=8080 JWT_SECRET=T35T53CR3TP609 npm run prod
+
